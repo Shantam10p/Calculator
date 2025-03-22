@@ -9,4 +9,5 @@ A simple yet functional calculator built using HTML, CSS, and JavaScript. This c
 Clone this repository:
 
 #Preview
+
 ![image](https://github.com/user-attachments/assets/138cc258-7822-48f5-821a-783fdfb84ff4)
